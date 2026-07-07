@@ -1,3 +1,9 @@
+# Mac stuff
+.DS_STORE
+
+# Model weight files 
+*.ckpt 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
